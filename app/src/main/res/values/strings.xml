@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheInfoMovie</string>
+    <string name="txt_most_popular">Most Popular</string>
+    <string name="see_more">See More</string>
+    <string name="txt_top_rated">Top Rated</string>
+    <string name="txt_upcoming">Up Coming</string>
+    <string name="txt_now_playing">Now Playing</string>
+    <string name="txt_favorites">Your Favorites</string>
+    <string name="search">Search</string>
+    <string name="satu">1</string>
+</resources>
